@@ -1,7 +1,5 @@
 #include <LiquidCrystal.h>
 
-
-
 const int RED = 6;
 const int YELLOW = 7;
 const int GREEN = 8;
