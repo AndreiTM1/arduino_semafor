@@ -1,0 +1,1 @@
+Aceasta este descrierea proiectului.
